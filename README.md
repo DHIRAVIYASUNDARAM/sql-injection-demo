@@ -68,3 +68,11 @@ This will bypass authentication and log you in without valid credentials, showca
 - Recognize the importance of secure coding practices like input validation and prepared statements.
 
 ---
+
+## 🎥 Demo Video
+
+▶️ **Watch the Screen Recording Demo of the College Club Website**
+
+[![Watch Video](https://img.shields.io/badge/Click%20to%20Watch-Demo%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1riCW5RdVJGa6UnU25Lhpl5TJjX3EnYoc/view?usp=sharing)
+
+---
